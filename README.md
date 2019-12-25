@@ -14,6 +14,9 @@ Daniel Ramage, David Hall, Ramesh Nallapati, and Christopher D Manning. Labeled 
 Repositories:
 
 https://github.com/wiseodd/probabilistic-models
+
 https://github.com/lda-project/lda
+
 https://gist.github.com/mblondel/542786
+
 https://github.com/kzhai/PyLDA
